@@ -1,2 +1,2 @@
 # Breakout-Game
-Breakout Game a popular retro game made through JavaScript
+Breakout Game is a popular retro game made through JavaScript
